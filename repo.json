@@ -17,7 +17,7 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "hhttps://github.com/Kittemzly/FFXIVMahjongReader/blob/master/src/MahjongReader/bin/Release/MahjongReader/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Kittemzly/FFXIVMahjongReader/blob/master/src/MahjongReader/bin/Release/MahjongReader/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Kittemzly/FFXIVMahjongReader/blob/master/src/MahjongReader/bin/Release/MahjongReader/latest.zip",

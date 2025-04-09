@@ -1,2 +1,4 @@
-# EmzRepo
-My dalamud plugin repo
+# Emz Plugin repo 
+
+
+Hi

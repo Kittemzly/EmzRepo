@@ -17,11 +17,11 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/Kittemzly/FFXIVMahjongReader/blob/master/src/MahjongReader/bin/Release/MahjongReader/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Kittemzly/FFXIVMahjongReader/raw/master/src/MahjongReader/bin/Release/MahjongReader/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Kittemzly/FFXIVMahjongReader/blob/master/src/MahjongReader/bin/Release/MahjongReader/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Kittemzly/FFXIVMahjongReader/blob/master/src/MahjongReader/bin/Release/MahjongReader/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Kittemzly/FFXIVMahjongReader/raw/master/src/MahjongReader/bin/Release/MahjongReader/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Kittemzly/FFXIVMahjongReader/raw/master/src/MahjongReader/bin/Release/MahjongReader/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1744178431"
     }

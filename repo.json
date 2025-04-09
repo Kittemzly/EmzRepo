@@ -17,11 +17,11 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/Kittemzly/FFXIVMahjongReader/raw/master/releases/release.zip",
+        "DownloadLinkInstall": "https://github.com/Kittemzly/FFXIVMahjongReader/releases/download/v1.0.0/release.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Kittemzly/FFXIVMahjongReader/raw/master/releases/release.zip",
-        "DownloadLinkUpdate": "https://github.com/Kittemzly/FFXIVMahjongReader/raw/master/releases/release.zip",
+        "DownloadLinkTesting": "https://github.com/Kittemzly/FFXIVMahjongReader/releases/download/v1.0.0/release.zip",
+        "DownloadLinkUpdate": "https://github.com/Kittemzly/FFXIVMahjongReader/releases/download/v1.0.0/release.zip",
         "DownloadCount": 0,
         "LastUpdate": "1744178431"
     }
